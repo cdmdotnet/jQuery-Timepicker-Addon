@@ -1,5 +1,5 @@
 {
-	"name": "jquery-ui-timepicker-addon",
+	"name": "@chinchilla-software/jquery-ui-timepicker-addon",
 	"version": "1.6.3",
 	"engines": {
 		"node": ">= 0.8.0"
